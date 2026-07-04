@@ -1,0 +1,10 @@
+{
+  "name": "monad-hardware-optimized-db",
+  "version": "1.0.0",
+  "description": "Kernel-level asynchronous io_uring simulation wrapper for MonadDB performance testing",
+  "main": "simulateKernelUring.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
